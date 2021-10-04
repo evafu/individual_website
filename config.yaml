@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://evafu.netlify.app/
 languageCode: en-us
 title: Forty
 theme: forty
@@ -10,22 +10,22 @@ params:
     subtitle: |-
       A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Forty
+    title: Hi, my name is Eva
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
+      - city: London, NW1 6LS
+        country: UK
+        street: Lisson Grove
         title: Address
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: yfu.mfa2022@london.edu
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
+      - phone: (741) 045-1774 x1234
         title: Phone
   custom_css: []
   custom_js: []
