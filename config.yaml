@@ -1,4 +1,4 @@
-baseURL: https://evafu.netlify.app/
+baseURL: https://evafu.netlify.app
 languageCode: en-us
 title: Forty
 theme: forty
@@ -116,4 +116,3 @@ params:
       amet pharetra et feugiat tempus."
     title: Massa libero
     url: blogs
-    
