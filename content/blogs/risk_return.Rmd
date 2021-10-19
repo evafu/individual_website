@@ -9,7 +9,7 @@ image: spices.jpg # save picture in \static\img\blogs. Acceptable formats= jpg, 
 
 keywords: ""
 slug: risk_return # slug is the shorthand URL address... no spaces plz
-title: Risk-Return of DJIA stocks
+title: New course I took in LBS
 ---
   
 
