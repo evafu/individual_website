@@ -3,7 +3,7 @@ categories:
 - ""
 - ""
 date: "2017-10-31T21:28:43-05:00"
-description: "click to see more details and fell free to contact me"
+description: "click to see more details and feel free to contact me"
 draft: false
 image: intern1.jpg
 keywords: ""
