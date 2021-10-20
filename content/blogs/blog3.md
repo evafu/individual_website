@@ -11,4 +11,4 @@ slug: tempus
 title: Relax life in Shanghai, China
 ---
 
-Shanghai not only contains modern skyscraper, but also such a peace place in Jingan District.
+Shanghai not only contains modern skyscraper, but also has such a peace place in Jingan District.
