@@ -5,14 +5,26 @@ categories:
 date: "2017-10-31T21:28:43-05:00"
 description: "click to see more details and fell free to contact me"
 draft: false
-image: Intern.jpg
+image: intern1.jpg
 keywords: ""
 slug: ipsum
-title: Working Experience
+title: My experience in Finance
 ---
 
+(2021) China Securities_Investment Banking Summer Analyst
 
-Motivated LBS MFA2022 student. Specialised in Finance & Economics in HKBU and Business Communication in University of Victoria (Canada). Accumulated work experience in Investment Banking, Private Fund, TMT Equity Research, and Financial Product during internship at CITICS, Flying Tiger investment Inc., Guotai Junan and ICBC. Currently seeking internships in banking sectors in both HK and London.
+•Participated in the early-stage IPO; Constructed DCF valuation model; Did due diligence; Response to 2-round SSE comments
 
-Please feel free to contact me via:
-Email: yfu.mfa2022@london.edu
+(2020) Flying Tiger Investment_TMT Investment Analyst Intern
+
+•Explored investment opportunities in optical communication devices market; Conducted peer benchmarking analysis in Telecom Industry, presented to senior manager; Tracked reports of companies within the portfolio and assisted in decision making
+
+(2018 – 2019) Guotai Junan Securities_Equity Research Analyst Intern
+
+•Built valuation models for target companies;Drafted comprehensive company analysis reports; Investigated first-hand information about listed companies
+
+(2017 - 2018) Industrial and Commercial Bank of China (ICBC)_Financial Product Intern
+
+•Promoted new financial product; Collected financial data and improved database
+
+If you are interested in my past experience, I would more than happy to share with you and feel free contact me via Linkedin or Email: yfu.mfa2022@london.edu
