@@ -6,4 +6,4 @@ slug: blogs
 title: Welcome to Evafu's Life
 ---
 
-My blogs about lifestyle.
+Explore my blogs related to lifestyle.

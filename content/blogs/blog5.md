@@ -10,4 +10,5 @@ keywords: ""
 slug: me
 title: Know more about me
 ---
-
+I love sunny day, love to record my life by photos.
+This photo taken by Xiangran, a lovely girl, when I graduated from my university.
