@@ -46,7 +46,7 @@ params:
         url: https://github.com/evafu/individual_website
       - icon: fa-linkedin
         label: LinkedIn
-        url: www.linkedin.com/in/eva-yuning-fu
+        url: linkedin.com/in/eva-yuning-fu
   image: ''
   name: Your name
   navigation:
