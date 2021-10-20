@@ -1,6 +1,6 @@
 baseURL: https://evafu.netlify.app
 languageCode: en-us
-title: Know_more_about_Evafu
+title: Know_about_Evafu
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -53,9 +53,7 @@ params:
     button1:
       - name: Get Started
         url: blogs
-    button2:
-      - name: Log In
-        url: '#'
+
     links:
       - name: Home
         url: '#'
@@ -68,13 +66,13 @@ params:
     enable: yes
     showcase:
       - image: Eva.jpg
-        subtitle: I'm a girl from China, who is currently reading MFA in LBS
+        subtitle: I'm a girl from China, in LBS MFA2022
         title: About me
         url: blogs/me
       - image: Smile.jpg
-        subtitle: The sample project for risk_return relationship
+        subtitle: Final R-project designed by Group B2
         title: New course I took in LBS
-        url: blogs/risk_return
+        url: blogs/group
       - image: London.jpg
         subtitle: See beautiful London photed by myself
         title: New life in London
@@ -88,17 +86,16 @@ params:
         title: My favorate drink
         url: blogs/aliquam
       - image: Experience.jpg
-        subtitle: Click here to feel free to see my working experience
-        title: My internship experience
+        subtitle: Click here to see my working experience
+        title: My experience in Finance
         url: blogs/ipsum
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "Motivated LBS MFA2022 student. \n    Specialised in Finance & Economics in HKBU and Business Communication in University of Victoria (Canada). \n    Accumulated work experience in Investment Banking, Private Fund, TMT Equity Research, and Financial Product during internship at CITICS, Flying Tiger investment Inc., Guotai Junan and ICBC. \n    Currently seeking internships in banking sectors in both HK and London.\n    
+    subtitle: "I am Eva, currently reading MFA2022 in LBS. Before, I specialised in Finance & Economics in HKBU and Business Communication in University of Victoria (Canada).I have accumulated work experience in Investment Banking, Private Fund, TMT Equity Research, and Financial Product during internship at CITICS, Flying Tiger investment Inc., Guotai Junan and ICBC.I'm currently seeking internships in banking sectors in both HK and London. 
 
 Please feel free to contact me via:
-Email: yfu.mfa2022@london.edu
-Phone:+44 07410451774/ +86 13104749091"
-      
+Email: yfu.mfa2022@london.edu"
+
     title: This is me!
     url: blogs

@@ -3,7 +3,7 @@ categories:
 - ""
 - ""
 date: "2017-10-31T22:26:09-05:00"
-description: Lorem Etiam Nullam
+description: Click to gain happiness and energy from beautiful London Sky!
 draft: false
 image: L1.jpg
 keywords: ""

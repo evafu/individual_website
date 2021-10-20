@@ -3,12 +3,12 @@ categories:
 - ""
 - ""
 date: "2017-10-31T21:28:43-05:00"
-description: ""
+description: "click to see more details and fell free to contact me"
 draft: false
 image: Intern.jpg
 keywords: ""
 slug: ipsum
-title: My internship experience
+title: Working Experience
 ---
 
 
