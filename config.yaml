@@ -68,7 +68,7 @@ params:
     enable: yes
     showcase:
       - image: Eva.jpg
-        subtitle: I'm a girl from China, who is reading Masters in Financial Analysis in LBS
+        subtitle: I'm a girl from China, who is currently reading MFA in LBS
         title: About me
         url: blogs/me
       - image: Smile.jpg
