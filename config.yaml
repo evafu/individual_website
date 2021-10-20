@@ -61,10 +61,6 @@ params:
         url: '#'
       - name: Blogs
         url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
-      - name: Elements
-        url: elements.html
     menu: Menu
     subtitle: By HTML5 Up
     title: Forty
@@ -84,7 +80,7 @@ params:
         title: New life in London
         url: blogs/magna
       - image: Shanghai.jpg
-        subtitle: 
+        subtitle: Shanghai
         title: My dream city in China
         url: blogs/tempus
       - image: Milktea.jpg
