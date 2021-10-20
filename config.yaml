@@ -24,7 +24,7 @@ params:
         title: Email
     enable: yes
     phone:
-      - phone: (0741) 045-1774
+      - phone: (0741) 0451-774
         title: Phone
   custom_css: []
   custom_js: []
@@ -44,6 +44,9 @@ params:
       - icon: fa-github
         label: GitHub
         url: https://github.com/evafu/individual_website
+      - icon: fa-instagram
+        label: Instagram
+        url: https://www.instagram.com/evvafuu/
       - icon: fa-linkedin
         label: LinkedIn
         url: https://www.linkedin.com/in/eva-yuning-fu/
