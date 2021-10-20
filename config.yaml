@@ -1,6 +1,6 @@
 baseURL: https://evafu.netlify.app
 languageCode: en-us
-title: Forty
+title: Know_more_about_Evafu
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -74,7 +74,7 @@ params:
       - image: Eva.jpg
         subtitle: I'm a girl from China, who is reading Masters in Financial Analysis in LBS
         title: About me
-        url: blogs/aliquam
+        url: blogs/me
       - image: Smile.jpg
         subtitle: The sample project for risk_return relationship
         title: New course I took in LBS
@@ -86,11 +86,11 @@ params:
       - image: Shanghai.jpg
         subtitle: 
         title: My dream city in China
-        url: blogs/ipsum
+        url: blogs/tempus
       - image: Milktea.jpg
         subtitle: This is a Chinese style milk tea
         title: My favorate drink
-        url: blogs/ipsum
+        url: blogs/aliquam
       - image: Experience.jpg
         subtitle: Click here to feel free to see my working experience
         title: My internship experience
